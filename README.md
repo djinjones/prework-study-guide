@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-This study guide can be used for multiple thigns. First, to take notes about the four languages used in the bootcamp. Secondly it is a place to apply learned knowledge involving the different code we will learn such as: using css to make the webpage to look more presentable or using Javascript to implement more logic to the webpage. Finally, this study guide can be used to practice the proper usage of github to implement changes to a project with other colaborators.
+This study guide can be used for multiple things. First, to take notes about the four languages used in the bootcamp. Secondly it is a place to apply learned knowledge involving the different code we will learn such as: using css to make the webpage to look more presentable or using Javascript to implement more logic to the webpage. Finally, this study guide can be used to practice the proper usage of github to implement changes to a project with other colaborators.
 
 ## Credits
 
